@@ -53,11 +53,12 @@ picking-efficiency-app/
 │   └── manage.py
 │
 ├── docs/                            # 設計書・仕様書
-│   ├── project_requirements.md
+│   ├── api-design.md
 │   ├── architecture.md
 │   ├── csv-format.md
+│   ├── data-model.md
 │   ├── location-design.md
-│   └── api-design.md
+│   └── project_requirements.md
 │
 ├── scripts/                         # 補助スクリプト
 │   ├── import_orders_from_csv.py
