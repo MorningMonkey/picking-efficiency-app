@@ -24,12 +24,12 @@
 
 ## 🏗 技術スタック
 
-| 項目 | 詳細 |
-|------|------|
-| 言語 | Python 3.11+, JavaScript |
-| フレームワーク | Django 4.x |
-| データベース | PostgreSQL（本番） / SQLite（開発） |
-| UI | HTML5 + Bootstrap 5（レスポンシブ対応） |
+| 項目             | 詳細                                    |
+| ---------------- | --------------------------------------- |
+| 言語             | Python 3.11+, JavaScript                |
+| フレームワーク   | Django 4.x                              |
+| データベース     | PostgreSQL（本番） / SQLite（開発）     |
+| UI               | HTML5 + Bootstrap 5（レスポンシブ対応） |
 | ロケーション管理 | Location マスタでコードとソート順を分離 |
 
 ---
@@ -139,14 +139,14 @@ PR 作成時には以下を必ず記載：
 
 ## 📝 コミットメッセージ規約（Conventional Commits）
 
-| 種別 | 意味 | 例 |
-|------|------|------|
-| feat | 新機能 | feat: add picking detail page |
-| fix  | バグ修正 | fix: prevent over-picking |
-| docs | ドキュメント更新 | docs: update README |
-| style | 見た目のみの変更 | style: unify mobile button size |
+| 種別     | 意味                 | 例                                |
+| -------- | -------------------- | --------------------------------- |
+| feat     | 新機能               | feat: add picking detail page     |
+| fix      | バグ修正             | fix: prevent over-picking         |
+| docs     | ドキュメント更新     | docs: update README               |
+| style    | 見た目のみの変更     | style: unify mobile button size   |
 | refactor | 改善（動作変更なし） | refactor: extract picking service |
-| chore | CI設定・環境構築 | chore: add postgres config |
+| chore    | CI設定・環境構築     | chore: add postgres config        |
 
 ---
 
