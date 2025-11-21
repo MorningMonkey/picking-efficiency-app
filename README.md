@@ -36,7 +36,7 @@
 
 ## 📂 ディレクトリ構成
 
-\`\`\`
+```text
 picking-efficiency-app/
 ├── backend/                         # Djangoプロジェクト
 │   ├── config/                      # 設定 (settings, urls, wsgi/asgi)
@@ -70,7 +70,7 @@ picking-efficiency-app/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-\`\`\`
+```
 
 ---
 
